@@ -1,0 +1,16 @@
+approvaltests==3.0.0
+attrs==21.2.0
+decorator==4.4.2
+importlib-metadata==4.8.2
+iniconfig==1.1.1
+networkx==2.5.1
+packaging==21.2
+pluggy==1.0.0
+py==1.11.0
+pygraphviz==1.6
+pyparsing==2.4.7
+pyperclip==1.5.27
+pytest==6.2.5
+toml==0.10.2
+typing-extensions==4.0.0
+zipp==3.6.0

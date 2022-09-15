@@ -1,0 +1,14 @@
+strict digraph "libbar.so" {
+	graph [fontsize=100,
+		name="libbar.so",
+		nodesep=1,
+		overlap=scale,
+		rankdir=tb,
+		ranksep=2,
+		splines=True
+	];
+	"libbar.so" -> "libfoo.so"	 [label=1,
+		weight=1];
+	"libfoo.so" -> "libbar.so"	 [label=1,
+		weight=1];
+}

@@ -1,0 +1,5 @@
+{
+  "libbar.so -> libfoo.so": 1,
+  "libbaz.so -> libfoo.so": 1,
+  "libfoo.so -> libbar.so": 1
+}

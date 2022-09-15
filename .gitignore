@@ -1,0 +1,6 @@
+.venv
+cached_objects/
+*.received.txt
+*__pycache__/
+*stats.csv
+.idea
